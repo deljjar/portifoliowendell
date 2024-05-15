@@ -1,0 +1,1 @@
+Criar projeto Spring Boot Java; implementar modelo de domínio; estruturar camadas lógicas: resource, service, repositor; configurar banco de dados de teste (H2); povoar o banco de dados; CRUD - create, retrieve, update, delete; tratamento de exceções.
